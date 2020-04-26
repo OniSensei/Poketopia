@@ -1,0 +1,1 @@
+Increases user's Special Attack and Special Defense by 1 stage.

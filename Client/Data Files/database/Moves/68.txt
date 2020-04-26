@@ -1,0 +1,1 @@
+Creates a decoy using 1/4 of user's total HP. Effect ends when user is switched. More information.3

@@ -1,0 +1,1 @@
+User faints as part of this attack's use. When a Pok�mon at user's position becomes active during this turn, it recovers all HP and PP and is cured of all status problems. (New Pok�mon become active immediately during this turn.) Fails if user's party has no non-active Pok�mon (doesn't cause fainting).

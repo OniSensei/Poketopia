@@ -1,0 +1,1 @@
+If this attack is successful, user receives opponent's item if user isn't holding any items.

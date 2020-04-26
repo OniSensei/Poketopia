@@ -1,0 +1,1 @@
+User gains half of total HP. If user gains HP this way, until the end of the round, attacks against user have normal effectiveness against the Flying type.

@@ -1,0 +1,1 @@
+During effect, user's Attack and Defense stats are switched. Effect ends when user uses this attack during effect or when user is switched.

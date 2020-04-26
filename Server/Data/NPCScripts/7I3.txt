@@ -1,0 +1,12 @@
+dialog@SailorJames@=Sailor James: Hi.I'm a sailor.It is a very hard job.@0
+checkOtherNpc@SailorJames@=OldBob@no1@
+dialog@SailorJames@=Sailor James: Oh my father sent you for keys?@0
+dialog@SailorJames@=Sailor James: Ok then.Here you go.@0
+give_item@SailorJames@=10@1
+stop@SailorJames@=no1
+dialog@SailorJames@no1=Sailor James:Have a good day.@0
+
+
+
+
+

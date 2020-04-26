@@ -1,0 +1,29 @@
+dialog@PikaTut@=Hey! Would you like to do a short game tutorial?@8
+dialog@PikaTut@=After tutorial is done I will give you 100PC!@8
+dialog@PikaTut@=Talk to me again if you want to!@8
+stop@PikaTut@=no1
+dialog@PikaTut@no1=Great!@8
+dialog@PikaTut@no1=So,first thing you need to learn is how to chat!@8
+dialog@PikaTut@no1=For map messages just type in big long box.@8
+dialog@PikaTut@no1=To use global type ' before message@8
+dialog@PikaTut@no1=Game menu is on the right@8
+dialog@PikaTut@no1=You have 6 options.Roster,Bag,Profile,Clan,More(Also close button) and Log Out@8
+dialog@PikaTut@no1=Using roster is easy.You can have 6 pokemons in your roster.@8
+dialog@PikaTut@no1=Each has its stats and training points.@8
+dialog@PikaTut@no1=If you want to upgrade stat of pokemon you will lose 1 TP@8
+dialog@PikaTut@no1=You can evolve your pokemon from roster and edit his moves.@8
+dialog@PikaTut@no1=To use items in bag double click on an item.@8
+dialog@PikaTut@no1=Also if you want quickly change the leader double click on its icon in the menu.@8
+dialog@PikaTut@no1=I think you are ready to go.If you need more info about the game please ask our staff!@8
+dialog@PikaTut@no1=Talk to me again to claim your reward!@8
+stop@PikaTut@no1=no2
+give_item@PikaTut@no2=1@100
+putvar@PikaTut@no2=no3
+dialog@PikaTut@no3=Enjoy our game!@8
+
+
+
+
+
+
+

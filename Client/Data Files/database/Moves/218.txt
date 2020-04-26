@@ -1,0 +1,1 @@
+This attack's power is equal to int((opponent's current HP)*120/max(1,opponent's total HP))+1.

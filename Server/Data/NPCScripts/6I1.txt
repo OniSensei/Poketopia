@@ -1,0 +1,11 @@
+dialog@Jake@=Jake: Hello, how are you?@9
+dialog@Jake@=Jake: You are a trainer as I can see.@9
+dialog@Jake@=Jake: Well , then you should know that scientists  made a new method of training your pokemon.@9
+dialog@Jake@=Jake: Allowing your pokemon to be unique they invented training points.@9
+dialog@Jake@=Jake: You can add TP to your pokemon, making him unique and stronger.@9
+dialog@Jake@=Jake: For example, if your pokemon moves are special attack based you can improve his special attack more and make him stronger.@9
+dialog@Jake@=Jake: This is one of the biggest discoveries in the history of Pokemon.@9
+dialog@Jake@=Jake: We can be proud that prof. Oak was highly envolved in the project.@9
+
+
+

@@ -1,0 +1,1 @@
+Fails unless opponent is asleep. As long as opponent remains asleep, opponent loses 1/4 of total HP at the end of every round (including the current round). Effect ends when opponent is replaced or wakes up.

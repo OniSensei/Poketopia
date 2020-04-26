@@ -1,0 +1,1 @@
+In tall grass or very tall grass, uses Seed Bomb. In caves or on rocks, uses Rock Slide. On snow, uses Blizzard. On roads or in sand, uses Earthquake. On water, uses Hydro Pump. On marshes, uses Mud Bomb. On ice, uses Ice Beam. Elsewhere, uses Tri Attack.

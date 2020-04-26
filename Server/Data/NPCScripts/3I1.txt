@@ -1,0 +1,28 @@
+dialog@Gogs@=Prof. Oak:Hello! I am glad you are here.@1
+dialog@Gogs@=Prof. Oak: I've been waiting for you.@1
+dialog@Gogs@=Prof. Oak: Oh,you already got your 1st pokemon!@1
+dialog@Gogs@=Prof. Oak:I'm sure you two will be great friends.@1
+dialog@Gogs@=Prof. Oak: I almost forgot,I need to give you something special.@1
+dialogitem@Gogs@=Prof. Oak: Here you go.@1@70@1@
+dialog@Gogs@=Prof. Oak: Yes,it is an egg.By completing egg cycles your egg will hatch and you will get a cute little pokemon.@1
+dialog@Gogs@=Prof. Oak: You can add egg into egg menu and you are ready to go!@1
+dialog@Gogs@=Prof. Oak: I saved this egg for someone who is able to take care of it.@1
+dialog@Gogs@=Prof. Oak: You are the right person for that.@1
+putvar@Gogs@=no1
+dialog@Gogs@no1=Prof. Oak: Take care!@1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

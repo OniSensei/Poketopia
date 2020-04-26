@@ -1,0 +1,1 @@
+Two-turn attack. Effectiveness is halved during Rain Dance, Sandstorm, and Hail. During Sunny Day, this attack takes one turn.

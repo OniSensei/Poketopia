@@ -1,0 +1,1 @@
+Whenever an opposing Pok�mon uses an attack with a target of "single non-user" or "single opposing Pok�mon" this round, it is directed to the Pokemon at the position of this attack's user instead of to any other non-user of that attack. Remains effective even if user is replaced.

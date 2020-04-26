@@ -1,0 +1,1 @@
+Deals damage to opponent equal to half of opponent's current HP, but not less than 1. Affected by type immunities.

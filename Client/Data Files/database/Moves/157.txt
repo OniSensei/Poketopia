@@ -1,0 +1,1 @@
+Power of attacks by the target this round is multiplied by 1.5. Effect ends when the target is replaced. Fails if no target exists or if user struck after the target.

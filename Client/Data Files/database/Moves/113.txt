@@ -1,0 +1,1 @@
+This attack's power is 10 (5% chance), 30 (10%), 50 (20%), 70 (30%), 90 (20%), 110 (10%), or 150 (5%) (Magnitude 4 through 10, respectively). If an opponent is using Dig, this attack's power is doubled for that opponent.

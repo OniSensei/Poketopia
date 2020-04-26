@@ -1,0 +1,1 @@
+A multiplier, X (which begins at 0), increases by 1 if this attack is successful, up to a maximum of 4. X is reset to 0 when user is replaced; when user falls asleep or becomes frozen; or when this attack is prevented from being used, misses, or becomes ineffective. This attack's power is multiplied by 2 to the power of X.

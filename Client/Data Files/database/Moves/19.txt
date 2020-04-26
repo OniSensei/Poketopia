@@ -1,0 +1,1 @@
+Decreases opponent's evasiveness by 1 stage.

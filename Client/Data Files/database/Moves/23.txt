@@ -1,0 +1,1 @@
+{ Ends wild battles. In trainer battles, replaces opponent with a random non-active Pok�mon in opponent's party; fails if opponent's party has no non-active Pok�mon. Fails either way if Ingrain is in effect for opponent.}

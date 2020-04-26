@@ -1,0 +1,5 @@
+dialog@Anna@=Leader Anna:You are cute! But not enough for me to melt you down!@6
+loadnpcbattle@Anna@=3@
+startnpcbattle@Anna@=gymBackground.bmp@
+
+

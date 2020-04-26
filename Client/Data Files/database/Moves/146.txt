@@ -1,0 +1,1 @@
+During effect, opponent can't choose for use the last move it used. Effect ends when opponent is replaced.

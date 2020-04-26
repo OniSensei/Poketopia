@@ -1,0 +1,17 @@
+clsBuffer = 532, 39, 1331, 899, I
+frmServer = 52, 52, 1461, 651, , 539, 103, 1855, 763, C
+modConstants = 78, 78, 1394, 738, 
+modDatabase = 114, 103, 1430, 763, 
+modEnumerations = 156, 156, 1472, 816, 
+modGameLogic = 28, 170, 1437, 769, 
+modGeneral = 76, 174, 1485, 773, 
+modGlobals = 208, 191, 1617, 807, I
+modHandleData = 212, 204, 1528, 864, 
+modPlayer = 121, 300, 1437, 960, 
+modPokemon = 147, 227, 1556, 826, 
+modServerLoop = 52, 52, 1369, 712, 
+modServerTCP = 198, 216, 1514, 876, 
+modSysTray = 78, 78, 1391, 738, I
+modTypes = 0, 0, 1317, 660, 
+modScripts = 77, 121, 1394, 790, 
+frmPlayer = 182, 182, 1495, 842, I, 156, 156, 1469, 816, C

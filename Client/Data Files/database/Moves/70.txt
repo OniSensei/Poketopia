@@ -1,0 +1,1 @@
+If this attack is successful, the effect begins. During effect, whenever user loses HP due to an attack by a non-user (as well as Doom Desire and Future Sight), user's Attack is increased by 1 stage. Effect ends and user is no longer infatuated when user doesn't choose this attack for use or when user is replaced.

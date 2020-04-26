@@ -1,0 +1,1 @@
+If this attack is successful and opponent is holding a Berry, user uses that item if it could do so, and that item is consumed. (This effect happens even if effects due to the opponent's item are not applied.)

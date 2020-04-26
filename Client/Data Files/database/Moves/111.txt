@@ -1,0 +1,1 @@
+{For five rounds, including the current round, for each active Pok�mon on the user's side, attacks by other Pok�mon and items cannot inflict status problems or confusion against that Pok�mon. During effect, Yawn will fail against any active Pok�mon on the user's side. During effect, this attack fails for user's party.}

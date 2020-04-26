@@ -1,0 +1,1 @@
+Uses a random move from a random Pok�mon in user's party, other than the user and eggs. Does not use the following attacks

@@ -1,0 +1,1 @@
+Hits three times. Stops if a miss is caused. When used, power starts at its original value, and increases by 10 after each hit.

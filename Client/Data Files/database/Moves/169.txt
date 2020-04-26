@@ -1,0 +1,1 @@
+If this attack is successful, opponent drops its held item even if it has zero HP. (That item is not consumed.)

@@ -1,0 +1,1 @@
+{Until the end of the round, if an attack by non-users would reduce user's HP to less than 1, its damage is changed so that it reduces user's HP to 1 instead. This attack fails if it occurred last this round. If Protect, Detect, or Endure was successful for the user on the previous round, this attack has a 50% chance of failing. }

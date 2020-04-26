@@ -1,0 +1,1 @@
+{Effect lasts for five rounds including the current round. During effect, effectiveness of physical non-critical-hit attacks against any active Pok�mon on the user's side is halved as long as there is only one active Pok�mon on the user's side, or multiplied by 2/3 otherwise. During effect, this attack fails for user's party.}

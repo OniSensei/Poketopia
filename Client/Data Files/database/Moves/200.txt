@@ -1,0 +1,1 @@
+This attack's power is equal to int((opponent's current Speed*25)/max(user's current Speed,1))+1. Maximum 150.

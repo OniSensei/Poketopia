@@ -1,0 +1,1 @@
+Power is doubled if user strikes after opponent this round, or if opponent switched this round before user's turn.

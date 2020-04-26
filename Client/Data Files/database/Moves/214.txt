@@ -1,0 +1,1 @@
+As part of this attack's use, user throws its item at opponent and that item is consumed after damage calculation. This attack's power depends on the item thrown this way. If this attack is successful, the thrown item takes effect. (User can throw items this way even if effects due to the user's item are not applied.) More information2.

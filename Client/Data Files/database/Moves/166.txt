@@ -1,0 +1,1 @@
+{Effectiveness is doubled if user lost HP due to an attack by the opponent (except Pain Split) this round and opponent was the last non-user to hit the user this round with an attack.}

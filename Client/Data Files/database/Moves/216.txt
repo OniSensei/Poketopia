@@ -1,0 +1,1 @@
+If this attack has 0 PP, this attack's power is 200. If this attack has 1 PP, this attack's power is 80. If this attack has 2 PP, this attack's power is 60. If this attack has 3 PP, this attack's power is 50. If this attack has 4 or more PP, this attack's power is 40.

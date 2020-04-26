@@ -1,0 +1,1 @@
+During effect, moves that the user knows are disabled for each opposing Pok�mon. Effect ends when user is replaced. Fails if neither opposing Pok�mon knows a move that the user knows.

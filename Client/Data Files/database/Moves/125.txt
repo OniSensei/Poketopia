@@ -1,0 +1,1 @@
+User loses half of total HP, and increases user's Attack by 12 stages. Will fail if HP reduced would faint user or if user's Attack cannot be increased.

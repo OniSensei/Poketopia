@@ -1,0 +1,1 @@
+During effect, whenever an opposing Pok�mon becomes active, that Pok�mon loses X/8 of total HP, where X is the type effectiveness of the Rock type against that Pok�mon's types.

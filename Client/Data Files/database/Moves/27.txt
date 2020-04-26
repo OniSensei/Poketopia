@@ -1,0 +1,1 @@
+User gains half of total HP. Fails if user's HP is full.

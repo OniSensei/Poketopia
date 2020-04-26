@@ -1,0 +1,1 @@
+User flees from the wild battle. Fails if battle is a Trainer battle.

@@ -1,0 +1,1 @@
+May burn opponent. If user is frozen and it chose this move for use, it becomes defrosted before this attack is used.

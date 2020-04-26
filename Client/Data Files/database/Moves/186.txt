@@ -1,0 +1,1 @@
+Decreases opponent's Attack and Defense by one stage.

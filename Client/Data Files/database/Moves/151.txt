@@ -1,0 +1,1 @@
+Fails if user lost HP due to an attack by a non-user this round (except Pain Split).

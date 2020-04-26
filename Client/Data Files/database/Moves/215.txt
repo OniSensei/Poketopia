@@ -1,0 +1,1 @@
+Opponent gains user's status problem. If opponent gains a status problem this way, user is cured of its status problem. (Fails if opponent has a status problem. If user is badly poisoned, opponent becomes badly poisoned.)

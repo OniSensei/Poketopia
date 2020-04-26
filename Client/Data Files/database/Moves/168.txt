@@ -1,0 +1,1 @@
+{At the end of the next round, if opponent is not affected by a status problem and remains active since this attack was used, opponent sleeps. Fails if [opponent cannot fall asleep when this attack is used, or if] opponent has a status problem.}

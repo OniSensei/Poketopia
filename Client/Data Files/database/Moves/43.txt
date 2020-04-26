@@ -1,0 +1,1 @@
+Returns to user 1/4 of HP lost by opponent due to this attack (recoil).

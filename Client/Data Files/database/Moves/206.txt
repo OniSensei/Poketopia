@@ -1,0 +1,1 @@
+For three rounds, including the current round, the Speed of each active Pok�mon on the user's side is doubled. During effect, this attack fails for user's party.

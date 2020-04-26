@@ -1,0 +1,1 @@
+This attack's effectiveness is not affected by user's or opponent's types. If this attack is successful, user loses 1/4 of total HP (not considered recoil damage).

@@ -1,0 +1,1 @@
+{In internal battles, player obtains money after battle when using, if the player wins. If this attack is successful, an amount equal to five times the user's current level (during attack's use) is added to the money to be obtained. Not obtained if fleeing occurred in the battle.}

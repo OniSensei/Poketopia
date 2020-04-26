@@ -1,0 +1,14 @@
+dialog@TraderMartin@=Martin:Hey,wanna trade?Bring me level 30 Koffing and I will give you Starly.@0
+stop@TraderMartin@=no1
+dialog@TraderMartin@no1=Still waiting...(lvl. 30 Koffing for lvl.1 Starly)@0
+checkpokemon@TraderMartin@no1=Koffing@30
+takepokemon@TraderMartin@no1=Koffing@30
+givepokemon@TraderMartin@no1=Starly@1
+dialog@TraderMartin@no1=Martin:Thanks!@0
+stop@TraderMartin@no1=
+
+
+
+
+
+

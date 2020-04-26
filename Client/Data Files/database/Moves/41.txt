@@ -1,0 +1,1 @@
+For five rounds, including the current round, attacks and abilities can't reduce the stat stages of each active Pok�mon on the user's side if they are used by other Pok�mon. During effect, this attack fails for user's party.

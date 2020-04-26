@@ -1,0 +1,1 @@
+Effect lasts for five rounds, including the current round. During effect, effects due to the opponent's item are not applied, opponent cannot use or throw items, and items cannot be used on opponent. Effect ends when opponent is switched.

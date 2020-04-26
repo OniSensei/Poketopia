@@ -1,0 +1,1 @@
+If this attack is successful, effects of multi-turn attacks and Leech Seed end for user, and effect of Spikes, Stealth Rock, and Toxic Spikes ends for user's side.

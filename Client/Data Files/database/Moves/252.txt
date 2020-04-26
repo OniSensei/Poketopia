@@ -1,0 +1,1 @@
+Two-turn attack. [While user is using this attack, attacks with an accuracy check will miss the user [unsure here]]. Ignores effect of Protect or Detect.

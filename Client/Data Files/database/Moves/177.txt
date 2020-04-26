@@ -1,0 +1,1 @@
+This attack's power is 20 if the weight of the opponent's original species is 10 kilograms (kg) or less [or less than 10 kg], else 40 if 25 kg or less, else 60 if 50 kg or less, else 80 if 100 kg or less, else 100 if 200 kg or less, else 120.

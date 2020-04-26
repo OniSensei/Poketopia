@@ -1,0 +1,1 @@
+User gains all HP; user sleeps with a sleep count of 3, even if user has a status problem. Fails if user's HP is full or if user is already asleep. Does nothing if user cannot fall asleep.

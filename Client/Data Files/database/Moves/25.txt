@@ -1,0 +1,1 @@
+User's types become the original type of one of the user's attacks, except Curse, chosen at random. Fails if each of user's attacks (except Curse) is of either type of the user, since it chooses a type other than one of user's types.

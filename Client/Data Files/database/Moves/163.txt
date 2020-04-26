@@ -1,0 +1,1 @@
+Decreases user's Attack and Defense by 1 stage if this attack is successful.

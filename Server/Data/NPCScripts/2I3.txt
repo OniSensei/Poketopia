@@ -1,0 +1,9 @@
+putvar@Dad@no1=
+dialog@Dad@=Dad: Son! You need to meet Iheb Ben Ahmed@2
+dialog@Dad@=Me: Uhm.Ok.@3
+give_item@Dad@=1@1000
+give_pokemon@Dad@=16@1
+
+
+
+

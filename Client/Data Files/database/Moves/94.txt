@@ -1,0 +1,1 @@
+{During effect, opponent cannot switch or flee. Effect ends when user or opponent is switched. During effect, this attack fails against opponent.}

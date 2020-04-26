@@ -1,0 +1,1 @@
+During effect, effects due to opponent's ability are not applied. Effect ends when opponent is switched.

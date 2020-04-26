@@ -1,0 +1,1 @@
+Power is doubled if opponent is using Fly or Bounce.

@@ -1,0 +1,1 @@
+Replaces user's Pok�mon with a different non-active Pok�mon in user's party of user's choice and transfers user's stat stages, confusion, and effects of certain moves to the new Pok�mon.

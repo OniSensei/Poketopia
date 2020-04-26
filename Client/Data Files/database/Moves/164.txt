@@ -1,0 +1,1 @@
+The next time this round, if the user is the target of one of certain attacks by non-users, instead user uses that attack against that non-user. Effect ends when user is replaced. (Applies to each target separately. Takes precedence over Soundproof. Even attacks with multiple targets target a single target this way.)

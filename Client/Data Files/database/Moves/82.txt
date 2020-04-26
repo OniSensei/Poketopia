@@ -1,0 +1,1 @@
+{User's types change to a random type that is resistant or immune to the type of the last attack that successfully targeted user. Fails if there is no such move. Doesn't choose either of the user's types. More information4.}

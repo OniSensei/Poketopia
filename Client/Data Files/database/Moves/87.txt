@@ -1,0 +1,1 @@
+This attack's power is 200 if N is less than 2, 150 if N is 2 through 5, 100 if N is 6 through 12, 80 if N is 13 through 21, 40 if N is 22 through 42, or 20 if N is 43 or greater, where N is equal to (user's current HP * 64 / user's total HP), rounded down.

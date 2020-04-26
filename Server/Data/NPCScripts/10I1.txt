@@ -1,0 +1,23 @@
+dialog@OldBob@=Old Bob: Hello kid.I can't seem to find keys for my house.@0
+dialog@OldBob@=Old Bob: I think my son has a copy.Can u check him.He is a sailor on the beach below Earth Town@0
+stop@OldBob@=no1
+dialog@OldBob@no1=Old Bob:Hmm,do you have them?@0
+checkitem@OldBob@no1=10@1@
+dialog@OldBob@no1=Old Bob:Thank you very much.@0
+dialog@OldBob@no1=Old Bob:Oh.So you are looking for a lamp?@0
+dialog@OldBob@no1=Old Bob:No problem.I have one for you.@0
+give_item@OldBob@no1=9@1
+takeitem@OldBob@no1=10@1
+dialog@OldBob@no1=Old Bob:Here you go.@0
+stop@OldBob@no1=no2
+dialog@OldBob@no2=Old Bob:Hey,I may go fishing.@0
+
+
+
+
+
+
+
+
+
+

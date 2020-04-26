@@ -1,0 +1,1 @@
+Decreases PP of last move used by opponent by 4. Fails if that move has zero PP or if there is no such move.

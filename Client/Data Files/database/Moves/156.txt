@@ -1,0 +1,1 @@
+For three to five rounds, including the current round, non-damaging moves are disabled for opponent. Effect ends when opponent is replaced.

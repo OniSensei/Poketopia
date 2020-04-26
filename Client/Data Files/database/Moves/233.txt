@@ -1,0 +1,1 @@
+For five rounds, including the current round, user is immune to Ground-type moves (overridden by Ingrain's effect), and user is unaffected by Spikes and Toxic Spikes (not overridden by Ingrain's effect), and user can switch and flee, as though it had Levitate. Effect ends when user is switched. Fails if Ingrain is in effect for the user. Fails if user has Levitate.

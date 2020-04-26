@@ -1,0 +1,6 @@
+{\rtf1\ansi\ansicpg1250\deff0\deflang1050{\fonttbl{\f0\fnil\fcharset238{\*\fname Arial;}Arial CE;}}
+{\colortbl ;\red144\green255\blue104;}
+\viewkind4\uc1\pard\qc\cf1\b\f0\fs20 Hello everyone!
+\par Best clan ever!\cf0\b0 
+\par }
+

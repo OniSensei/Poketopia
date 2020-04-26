@@ -1,0 +1,1 @@
+Fails if opponent did not choose a damaging move for use this round, or if opponent struck before the user this round.

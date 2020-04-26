@@ -1,0 +1,1 @@
+Decreases opponent's evasiveness by 1 stage. Even if opponent's evasiveness cannot be decreased, ends the effects of Reflect, Light Screen, Safeguard, Mist, Spikes, Toxic Spikes, and Stealth Rock on the opponent's side, and ends fog.

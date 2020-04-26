@@ -1,0 +1,2 @@
+[TRADEABLE]
+14=NO

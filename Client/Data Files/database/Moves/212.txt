@@ -1,0 +1,1 @@
+Power is doubled if opponent lost HP this round (even from Pain Split).

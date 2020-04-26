@@ -1,0 +1,1 @@
+User gains 2/3 of total HP during Sunny Day; otherwise, user gains 1/4 of total HP during Rain Dance, Hail, [fog,] or Sandstorm; otherwise, user gains half of total HP.

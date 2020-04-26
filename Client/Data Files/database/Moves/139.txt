@@ -1,0 +1,1 @@
+{Increases user's Defense by 1 stage. Even if user's Defense can't be increased, until user is replaced, the power of Ice Ball and Rollout, when used by user, is doubled. (Effect is not cumulative.)}

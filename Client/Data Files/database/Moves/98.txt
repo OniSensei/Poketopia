@@ -1,0 +1,1 @@
+User avoids certain attacks used this round by non-users. This attack fails if user strikes last this round. If Protect, Detect, or Endure was successful for the user on the previous round, this attack has a 50% chance of failing.

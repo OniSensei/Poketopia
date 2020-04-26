@@ -1,0 +1,12 @@
+loadnpcbattle@Andi@=1@
+dialognpcbattle@Andi@=Hey..I just woke up.You are gonna pay for this!@5@gymBackground.bmp@
+
+
+
+
+
+
+
+
+
+

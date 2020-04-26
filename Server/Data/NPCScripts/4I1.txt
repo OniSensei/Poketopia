@@ -1,0 +1,3 @@
+dialog@Dev@=Hey!@3
+dialog@Dev@=I'm sorry but way is closed :/@3
+dialog@Dev@=It's because we are in early dev mode and maps are not finished yet :)@3

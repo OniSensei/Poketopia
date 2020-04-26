@@ -1,0 +1,10 @@
+dialog@HiJohn@=John:It's dark in here! Be careful!@4
+warp@HiJohn@=14@5@28
+
+
+
+
+
+
+
+

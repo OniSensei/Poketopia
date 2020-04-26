@@ -1,0 +1,1 @@
+Increases user's Stockpile count by 1, and increases user's Defense and Special Defense by 1 stage. Fails if user's Stockpile count is 3 or greater. The Stockpile count is reset when user is replaced.

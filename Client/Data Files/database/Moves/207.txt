@@ -1,0 +1,1 @@
+If any of the target's stat stages can be increased, increases one of those stat stages chosen at random by 2.

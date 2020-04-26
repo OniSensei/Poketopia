@@ -1,0 +1,1 @@
+If opponent's Special Attack can be increased, increases opponent's Special Attack by 1 stage. If opponent is not confused, confuses opponent.

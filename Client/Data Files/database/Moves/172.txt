@@ -1,0 +1,1 @@
+Simultaneously, user adopts opponent's ability, and opponent adopts user's ability. Fails if either or both abilities are Wonder Guard [and/or Multitype?] or if neither have an ability.

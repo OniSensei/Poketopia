@@ -1,0 +1,1 @@
+Two-turn attack. On first turn of use, increases user's Defense by 1 stage.

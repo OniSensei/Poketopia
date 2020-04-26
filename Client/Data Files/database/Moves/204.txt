@@ -1,0 +1,1 @@
+Fails unless Protect or Detect is in effect for opponent this round. If this attack is successful, the effect of Protect and Detect does not apply for opponent this round.

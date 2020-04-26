@@ -1,0 +1,1 @@
+This attack's type and power depend on the Berry the user is holding. Unless this attack misses, even if this attack becomes ineffective due to type immunities, the item is consumed. Fails if user has Klutz, if user could not use its held item, or if user's item isn't a Berry (item is not consumed in those cases). More information7.

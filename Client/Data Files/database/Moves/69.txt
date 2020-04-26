@@ -1,0 +1,1 @@
+If this attack is successful, on the next round, user can't take any action and does nothing during its turn. (That move is prevented from being used during that turn.) [Probably loses PP by then]

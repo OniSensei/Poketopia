@@ -1,0 +1,1 @@
+Weather. Lasts for five rounds including the current round. During effect, effectiveness of Fire-type attacks is multiplied by 1.5, and effectiveness of Water-type attacks is halved. During effect, effects can't freeze a Pokemon.

@@ -1,0 +1,6 @@
+{\rtf1\ansi\ansicpg1250\deff0\deflang1050{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset238{\*\fname Arial;}Arial CE;}}
+{\colortbl ;\red92\green255\blue0;}
+\viewkind4\uc1\pard\qc\cf1\lang1033\b\fs20 Hi everyone.
+\par \cf0\lang1050\f1 
+\par }
+

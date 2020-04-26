@@ -1,0 +1,1 @@
+Increases user's Attack and Speed by 1 stage.

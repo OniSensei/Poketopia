@@ -1,0 +1,1 @@
+Power is doubled if user is poisoned, burned, or paralyzed.

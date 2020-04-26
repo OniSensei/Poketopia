@@ -1,0 +1,6 @@
+If Trim$(PokemonMove(move).Name) = "Name" Then
+n = DealDemage(index, move, mtype, atl, def, critical, atype, atype2, alvl, deftype1, deftype2)
+hp(2) = hp(2) - n
+SendBattleMessage index, aname & "->" & defname & " used Name!", BrightGreen
+SendBattleMessage index, aname & "->" & defname & " dealed " & n & " damage!", Yellow
+End If

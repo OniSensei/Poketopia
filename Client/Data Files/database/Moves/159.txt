@@ -1,0 +1,1 @@
+{User adopts opponent's ability. Fails if opponent's ability is Wonder Guard [or Multitype] or if opponent doesn't have an ability. (A Pok�mon's ability reverts to its original ability when it is replaced.)}

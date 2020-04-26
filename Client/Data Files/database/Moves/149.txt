@@ -1,0 +1,1 @@
+User faints as part of this attack's use. Decreases opponent's Attack and Special Attack by 2 stages. Fails if there is no target (doesn't cause fainting).

@@ -1,0 +1,1 @@
+This attack's power is doubled during weather (including fog). During Hail, this attack's type is Ice. Otherwise, during Sunny Day, this attack's type is Fire. Otherwise, during Sandstorm, this attack's type is Rock. Otherwise, during Rain Dance, this attack's type is Water.

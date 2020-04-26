@@ -1,0 +1,1 @@
+At random, recovers to opponent 1/4 of total HP (52/256 chance), or deals 40 (102/256), 80 (76/256), or 120 (26/256) power.

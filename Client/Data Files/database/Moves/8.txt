@@ -1,0 +1,1 @@
+Fails unless opponent is asleep. If this attack is successful, user gains half of HP lost by opponent due to this attack.

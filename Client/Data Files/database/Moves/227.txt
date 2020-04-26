@@ -1,0 +1,1 @@
+Fails unless user has at least one other move and had previously used all its other moves at least once since the last time user became active.

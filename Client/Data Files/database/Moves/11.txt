@@ -1,0 +1,1 @@
+Increases user's Defense by 1 stage.

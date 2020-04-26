@@ -1,0 +1,1 @@
+During effect, user cannot switch, flee, or be switched, and at the end of every round, user gains 1/16 of total HP. During effect, Ground-type moves are effective against user and user can receive the effect of Spikes and Toxic Spikes as though user did not have Levitate and as though its current type did not include Flying. Effect ends when user is switched.

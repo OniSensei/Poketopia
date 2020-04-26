@@ -1,0 +1,1 @@
+For four to seven rounds, including the current round, the last move used by opponent when this attack was used is disabled for opponent. Fails if opponent doesn't have that move or it has zero PP. During effect, this attack fails against opponent. Effect ends when opponent is replaced.

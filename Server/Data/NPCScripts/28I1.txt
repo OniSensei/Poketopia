@@ -1,0 +1,8 @@
+dialog@Andi@=Hey..Ready for splash?@
+loadnpcbattle@Andi@=2@
+startnpcbattle@Andi@=gymBackground.bmp@
+
+
+
+
+

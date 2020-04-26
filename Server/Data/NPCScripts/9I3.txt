@@ -1,0 +1,18 @@
+dialog@MalcolmHiker@=Hiker Malcolm: We have some problems in the cave.Looks like some geodudes went crazy.@4
+dialog@MalcolmHiker@=Hiker Malcolm: I wont let you in that easily.I need proof that you are skilled trainer.Show me that you have team with power level above 30 and I will let you in.@4
+checkpowerlevel@MalcolmHiker@=30@30
+stop@MalcolmHiker@=no1
+dialog@MalcolmHiker@no1=Hiker Malcolm:Ok so you have power level above 30.I guess you can pass.@4
+warp@MalcolmHiker@no1=11@21@29
+dialog@MalcolmHiker@no1=Hiker Malcolm: Be careful!@4
+
+
+
+
+
+
+
+
+
+
+

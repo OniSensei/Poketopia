@@ -1,0 +1,1 @@
+Increases chances of a critical hit for attacks by the user. Effect ends when user is switched.

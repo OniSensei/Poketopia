@@ -1,0 +1,1 @@
+Two-turn attack. While user is using this attack, user is unaffected by attacks other than Surf and Whirlpool, and user doesn't lose HP because of Sandstorm and Hail.

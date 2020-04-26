@@ -1,0 +1,1 @@
+If attack misses or becomes ineffective, user loses half of the damage the attack would have dealt (ignoring type immunities), but not [less than 1 HP or] more HP than half of opponent's total HP.

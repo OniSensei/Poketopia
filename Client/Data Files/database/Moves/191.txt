@@ -1,0 +1,1 @@
+During effect, power of Fire-type attacks is halved. (Effect is not cumulative.) Effect ends when user is switched. During effect, this attack fails for user, and non-users may use this attack.

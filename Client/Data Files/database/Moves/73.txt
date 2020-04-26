@@ -1,0 +1,1 @@
+{During effect, at the end of every round, if there is a Pok�mon at user's position, opponent loses 1/8 of total HP, and the Pok�mon at user's position gains HP lost by opponent. Effect ends when opponent is switched or uses Rapid Spin. Fails if opponent's current type includes Grass.}

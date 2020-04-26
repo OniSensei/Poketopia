@@ -1,0 +1,1 @@
+This attack's power is equal to 60+(20*X), where X is the total of all of opponent's current stat stages that are greater than 0. Maximum 200.

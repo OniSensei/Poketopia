@@ -1,0 +1,1 @@
+Deals damage to opponent equal to (user's level) * (N * 10 + 50) / 100, rounded down, where N is a random number from 0 through 10. Affected by type immunities.

@@ -1,0 +1,1 @@
+{At the end of the next round, if there is a Pok�mon at user's position, that Pok�mon gains half of total HP. Remains effective even if user is replaced. During effect, this attack fails for the Pok�mon at user's position.}

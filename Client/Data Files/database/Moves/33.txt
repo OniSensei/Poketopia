@@ -1,0 +1,1 @@
+One-hit KO. Deals damage to opponent equal to opponent's [total HP]. Ineffective if opponent's level is greater than user's level. When used, this attack's accuracy increases by the level difference. Affected by type immunities. Other accuracy effects are ignored for this attack.

@@ -1,0 +1,1 @@
+This attack's power is equal to 100 times the user's Stockpile count. Damage weighting is not performed for this attack. Even if this attack misses or becomes ineffective, resets user's Stockpile count to 0 and decreases user's Defense and Special Defense by the amount the user gained with Stockpile. (That amount is also reset to 0.)

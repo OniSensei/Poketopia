@@ -1,0 +1,1 @@
+This attack's power is equal to int((User's loyalty)*2/5).

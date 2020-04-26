@@ -1,0 +1,1 @@
+On and under water, user's type becomes Water. In caves and on rocks, user's type becomes Rock. On tall grass and very tall grass, user's type becomes Grass. On roads and in sand, user's type becomes Ground. In snow, user's type becomes Ice. Elsewhere, user's type becomes Normal. Fails if determined type is the same as one of the user's types.

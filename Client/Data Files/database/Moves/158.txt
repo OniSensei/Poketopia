@@ -1,0 +1,1 @@
+{Simultaneously, user receives opponent's item, and opponent receives user's item. Fails if either or both hold an Enigma Berry or if neither one holds an item.}

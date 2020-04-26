@@ -1,0 +1,1 @@
+Deals damage to opponent equal to opponent's current HP minus user's current HP. Affected by type immunities. Fails if user's current HP is equal to or greater than opponent's current HP.

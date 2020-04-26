@@ -1,0 +1,1 @@
+Can hit opponent even if it's using Fly or Bounce.

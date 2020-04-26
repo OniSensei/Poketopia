@@ -1,0 +1,1 @@
+User faints as part of this attack's use. Opponent's Defense is temporarily halved in damage calculation. Fails if no target exists (doesn't cause fainting).

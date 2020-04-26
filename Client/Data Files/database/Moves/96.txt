@@ -1,0 +1,1 @@
+Increases user's evasiveness by 1 stage. Even if user's evasiveness cannot be increased, until user is replaced, the move Stomp, when used by non-users, deals double power against user.

@@ -1,0 +1,1 @@
+User gains HP according to the user's Stockpile count

@@ -1,0 +1,1 @@
+Changes opponent's ability to Insomnia. Fails if opponent's ability is Multitype or Truant.

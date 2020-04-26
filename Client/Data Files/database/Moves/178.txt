@@ -1,0 +1,1 @@
+In tall grass or very tall grass, may put opponent to sleep. In caves or on rocks, may cause opponent to flinch. On snow and ice, may freeze opponent. On roads or in sand, may decrease opponent's Accuracy by 1 stage. On marshes, may decrease opponent's Speed by 1 stage. On water, may decrease opponent's Attack by 1 stage. Elsewhere, may paralyze opponent.

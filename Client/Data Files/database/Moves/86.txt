@@ -1,0 +1,1 @@
+Until user's next turn, if an attack by an opposing Pok�mon causes the user to faint, that opposing Pok�mon also faints if that Pok�mon is still active .

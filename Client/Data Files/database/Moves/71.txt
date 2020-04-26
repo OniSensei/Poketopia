@@ -1,0 +1,1 @@
+Copies last move used by opponent. The copied attack has 5 PP. Fails if that move is Metronome, Struggle, Sketch, Mimic, Chatter, or any move user knows. Fails if Transform is in effect for user.

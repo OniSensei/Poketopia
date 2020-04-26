@@ -1,0 +1,1 @@
+Each active Pok�mon without a perish count receives a perish count of 4. At the end of every round (including the current round), the perish count of each active Pok�mon is reduced by 1 and all Pok�mon with a perish count of 0 faint simultaneously. A Pok�mon's perish count is removed when it is switched.

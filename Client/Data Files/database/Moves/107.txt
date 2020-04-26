@@ -1,0 +1,1 @@
+Infatuates opponent. (There is a 50% chance that the attack of an infatuated Pok�mon will be canceled.) Fails if user or opponent is genderless, or if both have the same gender. Effect ends when user or opponent is replaced. During effect, this attack fails against opponent.

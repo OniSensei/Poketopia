@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1250\deff0\deflang1050{\fonttbl{\f0\fnil\fcharset238{\*\fname Arial;}Arial CE;}}
+{\colortbl ;\red255\green255\blue0;\red255\green255\blue255;\red255\green0\blue0;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 PEO Changelog version 2k17:\cf2\b0 
+\par \ul -Reworked ui completely, ui controls are now all placed in one form without making up multiple forms which reduces lag and increases speed
+\par -Added PvP , players now have option to battle each other in same way they battle gym leaders etc. to access PvP simply click battle button in players trainer card
+\par -Profile Images - players now can add their own profile picture that will show up in their trainer card
+\par -Player Journal - players can now edit their journal and add everything awesome that has happened through their playtime, other players can read their journal in trainer card.
+\par \cf3\ulnone\b - CLANS:\cf2\b0 
+\par  \ul  -players can now make their own clans and invite up to 50 people.
+\par   -clan leader can now add clan picture that will show in clan section and clan memebers trainer card
+\par   -Clan news - similar to players journal leader can now update clan news which will show up in clan section
+\par   -Players can invite other players that dont have clan to theirs in trainer card
+\par \cf3\ulnone\b -RANKED PVP:\cf2\b0 
+\par \ul   -players will now with each PvP battle gain or lose ranked points
+\par   -based on ranked points there are divisions you can be put in , which are : Bronze 3,2,1 , Silve 3,2,1 , Gold 3,2,1 ,Platninum 3,2,1 , Diamond 2,1 , Champion
+\par   -ranked points and division icon will show up in players trainer card
+\par   -there are some restrictions with ranked battles - example - player that is bronze can battle diamond or champion but he/she wont lose or gain any points
+\par -Movement Upgrade - movement system has been upgraded for better performance and lag reduction\ulnone 
+\par \cf3\b -New item types:\cf2\b0 
+\par     \ul  -TP Berry - reduces selected pokemon stat and adds up one tp to pokemon
+\par      -Clothing  - Mask , new layer of clothes made for glasses so wearing glasses or some kind of mask with hair is now possible
+\par      -Clothing - Outfit - Top layer of clothing and is rendered above all layers
+\par -Map connecting - Map rendering is now more advanced, engine now renders nearby maps of the current map which makes world kinda endless (This option can be turned off in options but it doesnt make lag)
+\par -Black screen fix - Some players have came to point where their map would be completely black , that is now fixed and the cause was hardware restriction mostly on newer video cards
+\par \cf0\ulnone 
+\par }

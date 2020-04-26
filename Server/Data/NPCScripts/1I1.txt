@@ -1,0 +1,39 @@
+dialog@Dad@=Dad: Son! I'm proud of you!Good luck!@3
+dialog@Dad@=Dad: Here is 100 PC for a good start.@3
+dialog@Dad@=Dad: As you know I was one of the best bug catchers in the whole region.@3
+dialog@Dad@=Dad: I still got some pokeballs left.@3@dialog@Dad@=Dad: I have waited for this moment ever since you were born.@3
+dialog@Dad@=Dad: Oh, i forgot! Prof. Oak is waiting for you! He has some special item for you!@3
+give_item@Dad@=1@100
+give_item@Dad@=2@5
+putvar@Dad@=no1
+dialog@Dad@no1=Dad: Catch me some pokemon!@3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

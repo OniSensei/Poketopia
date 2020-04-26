@@ -1,0 +1,1 @@
+Effect lasts for five rounds, including the current round. During effect, starting with the next round, active Pok�mon with lower Speeds strike before those with higher Speeds, rather than after. Effect ends when any active Pok�mon uses this attack.

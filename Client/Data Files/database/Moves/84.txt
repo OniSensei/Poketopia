@@ -1,0 +1,1 @@
+{Permanently copies move opponent last used (different variable). That attack replaces this attack. Does not copy Sketch, Struggle, Chatter, or any move user knows. Fails if Transform is in effect for user. Moves copied this way have all PP.}

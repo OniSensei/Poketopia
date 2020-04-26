@@ -1,0 +1,1 @@
+If the last non-user who hit the user with an attack this round is one of user's opposing Pok�mon, deals damage to the Pok�mon at that non-user's position equal to 1.5 times the amount of HP lost by user due to that attack. Affected by type immunities. (For multi-hit attacks, returns HP based on the last hit of that attack.)

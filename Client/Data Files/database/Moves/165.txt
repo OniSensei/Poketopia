@@ -1,0 +1,1 @@
+If user isn't holding an item, user receives the last item that was held by a Pok�mon at user's position this battle and was consumed this battle. If this attack is successful, that item is reset.

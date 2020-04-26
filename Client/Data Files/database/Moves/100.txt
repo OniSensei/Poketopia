@@ -1,0 +1,1 @@
+During effect, if opponent's evasiveness stat stage is greater than 0, it temporarily becomes 0 in accuracy checks for attacks against the opponent. During effect, Normal- and Fighting-type attacks against opponent have normal effectiveness against the Ghost type. Effect ends when opponent is replaced. This attack may be used against opponent during effect.

@@ -1,0 +1,1 @@
+Uses one of the user's attacks, at random. Fails unless user is asleep. Doesn't choose the following

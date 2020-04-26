@@ -1,0 +1,1 @@
+May cause opponent to flinch. Fails unless it's the user's first turn since user last became active.

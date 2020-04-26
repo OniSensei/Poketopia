@@ -1,0 +1,1 @@
+User's HP and opponent's HP become equal to the average of user's and opponent's current HP, rounded down, and are adjusted so that they don't exceed their total HP. Not affected by type immunities.

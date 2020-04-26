@@ -1,0 +1,1 @@
+Increases user's Speed by 2 stages.

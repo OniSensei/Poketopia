@@ -1,0 +1,1 @@
+Resets all stat stages on all active Pok�mon to zero.

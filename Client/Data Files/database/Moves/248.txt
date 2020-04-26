@@ -1,0 +1,1 @@
+If user is holding a Plate, this attack's type depends on the Plate held.

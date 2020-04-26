@@ -1,0 +1,1 @@
+Weather. Lasts for five rounds including the current round. At the end of every round except the last, each active Pok�mon, except Ground, Rock, and Steel types, loses 1/16 of total HP simultaneously. During effect, Special Defense of active Pok�mon whose current type includes Rock is multiplied by 1.5.
